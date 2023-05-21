@@ -1,24 +1,74 @@
-REQUIRED SECTIONS:
+<!-- TABLE OF CONTENTS -->
 
-- Table of Contents
-- About the Project
-  - Built With
-- Authors
-- License
+# 📗 Table of Contents
+
+- [📖 About the Project]
+  - [🛠 Built With]
+    - [Tech Stack]
+    - [Key Features]
+- [💻 Getting Started]
+  - [Setup]
+  - [Prerequisites]
+  - [Install]
+  - [Usage]
+- [👥 Authors]
+- [🔭 Future Features]
+- [🤝 Contributing]
+- [⭐️ Show your support]
+- [🙏 Acknowledgements]
+- [📝 License]
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Project-hello <a name="project-hello"></a>
+# 📖 [OOP-School-Library]
 
-Describe your project in 1 or 2 sentences
+**[OOP-School-Library]** is an implementation of school library system, using Ruby Object Oriented Programming principles
 
-Hello-project is my first project
+- [Video description of the project]
+
+## 🛠 Built With
+
+### Tech Stack
+
+HTML and CSS
+
+<!-- Features -->
+
+- **[Catalog of my things record keeping]**
+- **[Minimalistic UI to access the systems]**
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need the following installed in your local system
+-VSCode
+-Git CLI
+-Github account
+
+### Setup
+
+Clone this repository to your desired folder:
+
+cd my-folder
+git clone https://github.com/letarulinda/project-hello.git
+
+### Install
+
+Install this project with:
+
+cd project-hello
+bundle install
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors
 
-Letaru Linda Masia
+👤 **Letaru Linda Masia**
 
 - GitHub: https://github.com/letarulinda
 - LinkedIn: https://www.linkedin.com/in/linda-letaru-masia-7b48a9175/
