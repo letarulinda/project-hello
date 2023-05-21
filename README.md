@@ -32,11 +32,6 @@
 
 HTML and CSS
 
-<!-- Features -->
-
-- **[Catalog of my things record keeping]**
-- **[Minimalistic UI to access the systems]**
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started
