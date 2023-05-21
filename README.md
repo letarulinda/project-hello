@@ -10,7 +10,7 @@ REQUIRED SECTIONS:
 
 # 📖 [Project-hello <a name="project-hello"></a>
 
-Describe your project in 1 or 2 sentences.
+Describe your project in 1 or 2 sentences
 
 Hello-project is my first project
 
